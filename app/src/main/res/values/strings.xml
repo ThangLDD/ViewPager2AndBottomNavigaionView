@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThangLDD_AdvanceAndroid_Day5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="home_uppercase">HOME</string>
+    <string name="dashboard_uppercase">DASHBOARD</string>
+    <string name="notifications_uppercase">NOTIFICATIONS</string>
+</resources>
